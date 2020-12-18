@@ -2,22 +2,22 @@
 
 //entry_host
 
-$a = "facebook.net";
+$a = "xxxxxxxxxx";
 
-$b = "shshbswjhs.lk";
+$b = "xxxxxxxxxx";
 
-$c = "google.com";
+$c = "xxxxxxxxxxx";
 
-$d = "whatsapp.net";
+$d = "xxxxxxxxx";
 
-$e = "dialog.lk";
+$e = "xxxxxxxx";
 
-$f = "sex.com";
+$f = "xxxxxxxxx";
 
-$g = "sjss.lk";
+$g = "xxxxxxxxx";
 
-$h = "jjjjjs.com";
+$h = "xxxxxxxxx";
 
-$i = "ott-catchup.revlet.net";
+$i = "xxxxxxxxxx";
 
-$j = "fuck.com";
+$j = "xxxxxxxx";
